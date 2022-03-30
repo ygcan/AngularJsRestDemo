@@ -1,0 +1,5 @@
+com\yasemin\angularjsrestapidemo\CrudApp.class
+com\yasemin\angularjsretapidemo\repository\EmployeRepository.class
+com\yasemin\angularjsrestapidemo\controller\EmployeeResource.class
+com\yasemin\angularjsrestapidemo\model\Employee.class
+com\yasemin\angularjsretapidemo\service\EmployeeService.class
